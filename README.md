@@ -1,4 +1,4 @@
-# Mobile Price Prediction using Machine Learning
+Mobile Price Prediction using Machine Learning
 Overview
 
 This project implements a machine learning-based system to classify mobile phones into different price ranges based on their technical specifications. The model is trained using a structured dataset and predicts whether a mobile device falls into budget, mid-range, premium, or flagship categories.
@@ -65,16 +65,6 @@ Model Performance
 Training Accuracy: High (indicates learning capability)
 Testing Accuracy: Evaluates real-world performance
 Overfitting Check: Difference between train and test accuracy
-Installation and Setup
-Step 1: Clone Repository
-git clone https://github.com/your-username/Mobile-Price-Prediction.git
-cd Mobile-Price-Prediction
-Step 2: Install Dependencies
-pip install -r requirements.txt
-Step 3: Run the Notebook
-
-Open the notebook in Jupyter or Google Colab and execute all cells.
-
 Usage
 Upload the dataset (train.csv)
 Train the machine learning model
